@@ -1,0 +1,23 @@
+.me-auto a{
+    margin-left: 10px;
+    text-decoration: none;
+}
+.excess a{
+    margin-left: 10px;
+    text-decoration: none;
+}
+.icon{
+    color: blueviolet;
+}
+.dark-mode{
+   background-color: black;
+}
+.light-mode{
+    background-color: white;
+}
+.bgcolor{
+    border-radius: 30%;
+    padding: 2px;
+    color: white;
+    background-color: blueviolet;
+}
